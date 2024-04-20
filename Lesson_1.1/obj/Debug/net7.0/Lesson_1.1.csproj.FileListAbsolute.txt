@@ -1,0 +1,15 @@
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/bin/Debug/net7.0/Lesson_1.1
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/bin/Debug/net7.0/Lesson_1.1.deps.json
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/bin/Debug/net7.0/Lesson_1.1.runtimeconfig.json
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/bin/Debug/net7.0/Lesson_1.1.dll
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/bin/Debug/net7.0/Lesson_1.1.pdb
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.csproj.AssemblyReference.cache
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.AssemblyInfoInputs.cache
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.AssemblyInfo.cs
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.csproj.CoreCompileInputs.cache
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.dll
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/refint/Lesson_1.1.dll
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.pdb
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/Lesson_1.1.genruntimeconfig.cache
+/home/denis/ozon-repos/ozon/ITVDN/Lesson_1.1/obj/Debug/net7.0/ref/Lesson_1.1.dll
