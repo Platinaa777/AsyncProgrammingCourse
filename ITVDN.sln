@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_3.2", "Lesson_3.2\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_3.3", "Lesson_3.3\Lesson_3.3.csproj", "{2300CC47-E24E-42B6-B841-2F24FBA25416}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_4.1", "Lesson_4.1\Lesson_4.1.csproj", "{F4B86C60-E6FD-42FE-B0AB-4513061CE159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_4.2", "Lesson_4.2\Lesson_4.2.csproj", "{6A6BAEBA-7F91-424E-9868-3BDF9344D06A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{2300CC47-E24E-42B6-B841-2F24FBA25416}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2300CC47-E24E-42B6-B841-2F24FBA25416}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2300CC47-E24E-42B6-B841-2F24FBA25416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B86C60-E6FD-42FE-B0AB-4513061CE159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B86C60-E6FD-42FE-B0AB-4513061CE159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B86C60-E6FD-42FE-B0AB-4513061CE159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B86C60-E6FD-42FE-B0AB-4513061CE159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6BAEBA-7F91-424E-9868-3BDF9344D06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6BAEBA-7F91-424E-9868-3BDF9344D06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6BAEBA-7F91-424E-9868-3BDF9344D06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6BAEBA-7F91-424E-9868-3BDF9344D06A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
